@@ -1,7 +1,9 @@
 ---
 title: Introducción
+published: true
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
